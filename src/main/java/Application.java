@@ -6,7 +6,7 @@ import service.Face;
 
 public class Application {
 
-    private static Logger logger = Logger.getLogger(Face.class);
+    private static Logger logger = Logger.getLogger(Application.class);
     public static void main(String[] args) {
 
 //        //人脸识别=================================

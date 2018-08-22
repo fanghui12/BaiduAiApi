@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 public class Word {
 
-    private static Logger logger = Logger.getLogger(Face.class);
+    private static Logger logger = Logger.getLogger(Word.class);
 
     public String basicGeneral(AipOcr client, String image) {
         // 传入可选参数调用接口
